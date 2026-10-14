@@ -1,0 +1,6 @@
+{
+  "name": "CRT Overlay Studio & APK",
+  "description": "Retro CRT shader overlay simulator with scanlines, curvature, bloom, and RGB mask. Includes direct Android PWA install and APK compilation exporter.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
